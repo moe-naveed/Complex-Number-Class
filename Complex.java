@@ -3,8 +3,6 @@ import java.util.Scanner;
 public class Complex {
 
 /* @author Mohammad Naveed
- * 1332196, navedmu
- * Assignment#1 2XB3
  */
 	//Instance variables
 	
